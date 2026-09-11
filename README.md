@@ -62,3 +62,23 @@ This limitation is documented as part of the lab and can be addressed in a futur
 Detailed architecture and verification results are available in:
 
 `docs/branch-architecture.md`
+
+
+## Project Documentation
+
+### Architecture
+
+* [Branch Site Architecture](docs/branch-architecture.md)
+
+### Device Configurations
+
+* [Branch SRX Configuration](configs/srx/srx-branch-config.md)
+* [L3-SW-Branch1 Configuration](configs/l3/l3-branch1-config.md)
+* [L3-SW-Branch2 Configuration](configs/l3/l3-branch2-config.md)
+* [L2-Branch1 Configuration](configs/l2/l2-branch1-config.md)
+* [L2-Branch2 Configuration](configs/l2/l2-branch2-config.md)
+
+### Troubleshooting
+
+* [SRX Static Routing Failover Troubleshooting](troubleshooting/srx-static-routing-failover.md)
+
