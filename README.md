@@ -82,3 +82,6 @@ Detailed architecture and verification results are available in:
 
 * [SRX Static Routing Failover Troubleshooting](troubleshooting/srx-static-routing-failover.md)
 
+## Branch Topology
+
+![Branch Network Topology](docs/images/branch-topology.png)
